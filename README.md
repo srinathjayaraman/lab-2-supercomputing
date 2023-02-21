@@ -1,9 +1,4 @@
 # Lab 2 Report
-
-The members of Group 29 are:
-- Srinath Jayaraman - 5049903
-- Juan Molano - 5239540
-
 ## Usage
 
 The spark application is compiled and assembled inside sbt. 
